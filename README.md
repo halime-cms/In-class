@@ -20,3 +20,10 @@
   - Week 02: **Consider a simple linear regression model. Estimate $\beta_0$ and $\beta_1$ through maximum likelihood estimation method.**
     
     - Hint: You will see that $\hat{\beta_0}^{OLS}=\hat{\beta_0}^{MLE}$ and $\hat{\beta_1}^{OLS}=\hat{\beta_1}^{MLE}$.
+
+  - Week 03: **What is variance inflation factor? How does it help us to detect multicollinearity?**
+  
+    - At Week 04, we will do MLR analysis with advertisement data through statsmodels. You can check existence of multicollinearity with
+    [outliers_influence.variance_inflation_factor](https://www.statsmodels.org/dev/generated/statsmodels.stats.outliers_influence.variance_inflation_factor.html) method.
+  
+  
