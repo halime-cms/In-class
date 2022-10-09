@@ -26,4 +26,4 @@
     - At Week 04, we will do MLR analysis with advertisement data through statsmodels. You can check existence of multicollinearity with
     [outliers_influence.variance_inflation_factor](https://www.statsmodels.org/dev/generated/statsmodels.stats.outliers_influence.variance_inflation_factor.html) method.
   
-  
+  - Week 04: No HW
